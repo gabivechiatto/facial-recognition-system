@@ -4,12 +4,7 @@
 
 <p>Tecnologias utilizadas: Python, Colab, OpenCV. </p>
 
-  &#xa0;
-
 </div>
-
-<br>
-
 
 ## :memo: Licença ##
 
